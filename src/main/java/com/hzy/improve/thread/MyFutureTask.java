@@ -9,6 +9,7 @@ import java.util.concurrent.FutureTask;
  * Created by eju on 2018/2/27.
  */
 public class MyFutureTask {
+
     public static void main(String[] args) {
 
         MyCallable callable1 = new MyCallable(1000);
